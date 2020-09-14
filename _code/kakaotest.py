@@ -41,19 +41,3 @@ def solution(new_id):
 test_id = "..asd."
 
 solution(test_id)
-
-#%%
-test_id = "..asd."
-
-test_id.rstrip('.')
-# %%
-
-
-def solution(orders, course):
-    
-    for order in orders:
-        
-    return answer
-
-orders = ["ABCFG", "AC", "CDE", "ACDE", "BCFG", "ACDEH"]
-course = [2,3,4]
