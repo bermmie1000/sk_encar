@@ -81,6 +81,6 @@ def get_list_page(driver):
     df_page["distance"] = ser_distance
     df_page["price"] = ser_price
     df_page["date"] = ser_date
-    df_page["equivalent_item"] = 1
+    df_page["condition"] = "equal"
 
     return df_page
